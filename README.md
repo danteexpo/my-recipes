@@ -1,0 +1,23 @@
+# My Recipes
+
+Proyecto realizado con TailwindCSS y Firebase.
+
+## Instalación
+
+```bash
+npm install
+```
+
+## Ejecución
+
+```bash
+npm start
+```
+
+## Google Font Families
+
+```bash
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@100;200;300;400;500;600;700;800&display=swap');
+
+font-family: Raleway, sans-serif;
+```
