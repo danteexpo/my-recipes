@@ -1,14 +1,14 @@
 # My Recipes
 
-Proyecto realizado con TailwindCSS y Firebase.
+Project made with TailwindCSS and Firebase.
 
-## Instalación
+## Installation
 
 ```bash
 npm install
 ```
 
-## Ejecución
+## Start
 
 ```bash
 npm start
