@@ -2,6 +2,10 @@
 
 Project made with TailwindCSS and Firebase.
 
+## Link
+
+[My Recipes](https://de-recipes.netlify.app/).
+
 ## Installation
 
 ```bash
